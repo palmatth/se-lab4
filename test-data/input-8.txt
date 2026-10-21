@@ -1,0 +1,5 @@
+#input-8
+#A-teszt: mindket tarolo ures
+GT4500,0,0,0,0
+TORPEDO,ALL
+EXIT

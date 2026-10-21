@@ -1,0 +1,6 @@
+#input-2
+#S-teszt: felvaltva tortennek e a single lovesek
+GT4500,10,0,10,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+EXIT

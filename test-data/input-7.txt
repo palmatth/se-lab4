@@ -1,0 +1,5 @@
+#input-7
+#A-teszt: csak az egyik tarolo sikeres
+GT4500,5,1.0,5,0.0
+TORPEDO,ALL
+EXIT

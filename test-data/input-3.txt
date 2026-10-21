@@ -1,0 +1,5 @@
+#input-3
+#S-teszt: elsodleges ures, masodlagosbol probal
+GT4500,0,0,10,0
+TORPEDO,SINGLE
+EXIT

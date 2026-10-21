@@ -1,0 +1,5 @@
+#input-6
+#A-teszt: mindket tarolobol sikeres loves
+GT4500,10,0,10,0
+TORPEDO,ALL
+EXIT
